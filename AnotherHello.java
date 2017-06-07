@@ -3,5 +3,6 @@ public class AnotherHello {
 		System.out.println("Hi Git, am I a new contribute?");
 		System.out.println("Fork: Hi Git, am I a new contribute?");
 		System.out.println("Thomas added.");
+		System.out.println("Again Thomas added.");
 	}
 }
